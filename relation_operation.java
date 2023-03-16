@@ -32,5 +32,11 @@ public class relation_operation
     a = (a < 0) ? -a : a; //이거 쓸때 보기 불편하다고 뒷부분까지 괄호 쓰면 컴파일에러남
     
     System.out.print(a); 
+    
+    
+    
+    //선언 안된 변수 가져다 쓰기
+    int undefined_var;
+    undefined_var = undefined_var || 0; //undefined_var변수가 선언이 되지 않았을 경우, 0값을 가지고, 아닌경우 기존 선언된 값을 가짐
     }
 }
