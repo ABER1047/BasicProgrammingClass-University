@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class variables 
 {
     public static void main(String[] args)
@@ -18,5 +20,15 @@ public class variables
     //배열 선언
     int test_val[] = new int[3]; //3은 배열 사이즈, 초기값은 0 (int 말고 string으로 선언시 초기값은 "")
     int test_val2[] = {1,2,3,4,5};
+    
+    int test_val3 = (_1byte == true) ? ((__1byte == -128) ? 1 : 0) : 0;
+    System.out.println(test_val3);
+    
+    int x,y,z,array[];
+    array = new int[55];
+    
+    //랜덤 값 얻기
+    Random random_value = new Random();
+    a = random_value.nextInt(200)-100;
     }
 }
