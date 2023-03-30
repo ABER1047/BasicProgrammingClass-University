@@ -8,6 +8,6 @@ public class chapter6_1
         {
         System.out.println(x);
         x--;
-        }while(x < 6);
+        } while(x < 6);
     }
 }
