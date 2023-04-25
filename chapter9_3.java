@@ -7,14 +7,13 @@ public class chapter9_3
     {
         Scanner sc = new Scanner(System.in);
         
-        int temp1 = 0, temp2 = 1, temp3 = 0;
+        int temp1 = 0, temp2 = 1, temp3 = 1;
         
         System.out.print(temp1+" ");
-        System.out.print(temp2+" ");
-        while(temp3 < 5000)
+        for(temp3 = 1; temp3 < 5000;)
         {
-            temp3 = temp2 + temp1;
             System.out.print(temp3+" ");
+            temp3 = temp2 + temp1;
             
             temp1 = temp2;
             temp2 = temp3;

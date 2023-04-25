@@ -7,26 +7,21 @@ public class chapter9_2
     {
         Scanner sc = new Scanner(System.in);
         
-        int range = 100, num = 0, i = 1, ii = 1, iii = 1;
+        int range = 100, num = 0;
         
-        while(i <= range)
+        for(int i = 1; i <= range; i++)
         {
-            ii = 1;
-            while(ii <= range)
+            for(int ii = 1; ii <= range; ii++)
             {
-                iii = 1;
-                while(iii <= range)
+                for(int iii = 1; iii <= range; iii++)
                 {
                     if (Math.pow(iii, 2) == Math.pow(i, 2)+Math.pow(ii, 2))
                     {
                         System.out.println("a = "+i+", b = "+ii+", c = "+iii);
                         num ++;
                     }
-                    iii++;
                 }
-                ii++;
             }
-            i++;
         }
         
         System.out.println(num+"개의 삼각형 존재");

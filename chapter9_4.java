@@ -5,7 +5,8 @@ public class chapter9_4
 {
     public static void main(String[] args)
     {
-        while(true)
+        char keep_doing = 'y';
+        for(; keep_doing == 'y';)
         {
             Random random_val = new Random();
             int random_val_cal = random_val.nextInt(3);
@@ -37,7 +38,7 @@ public class chapter9_4
                 System.out.println("비겼습니다 - 계속 할까요 y/n");
             }
             
-            int keep_doing = sc.next().charAt(0);
+            keep_doing = sc.next().charAt(0);
             if (keep_doing == 'n')
             {
                 System.out.println("종료합니다");
