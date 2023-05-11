@@ -21,8 +21,8 @@ public class chapter14_3
         }
         
         int m1 = size[0][0], m2 = size[0][1], n1 = size[1][0], n2 = size[1][1];
-        int array_temp1[][] = new int[size[0][0]][size[0][1]];
-        int array_temp2[][] = new int[size[1][0]][size[1][1]];
+        int array_temp1[][] = new int[m1][m2];
+        int array_temp2[][] = new int[n1][n2];
         System.out.println("1번째 행렬 : ");
         for(int i = 0; i < array_temp1.length; i++)
         {
