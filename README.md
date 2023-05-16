@@ -1,0 +1,24 @@
+# University-programming-class-Practicing
+nothing special
+
+
+
+
+
+#### Chapter14_3 (행렬의 곱)
+
+[chapter14_3.java](https://github.com/ABER1047/University-programming-class-Practicing/blob/main/chapter14_3.java)
+
+
+#### Chapter15_2 (회문)
+
+https://github.com/ABER1047/University-programming-class-Practicing/blob/main/chapter15_2.java
+
+
+#### Chapter15_3 (소문자를 대문자로 변경 [toUpperCase사용 X])
+
+https://github.com/ABER1047/University-programming-class-Practicing/blob/main/chapter15_3.java
+
+#### Chapter15_4 (문자열 분해)
+
+https://github.com/ABER1047/University-programming-class-Practicing/blob/main/chapter15_4.java
