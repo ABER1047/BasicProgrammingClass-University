@@ -1,9 +1,9 @@
 # University-programming-class-Practicing
 nothing special
 
+</br></br></br></br>
 
-
-
+- 기말고사에 나올만한 거
 
 #### Chapter14_3 (행렬의 곱)
 
