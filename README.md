@@ -3,7 +3,7 @@ nothing special
 
 </br></br></br></br>
 
-- 기말고사에 나올만한 거
+<!-- - 기말고사에 나올만한 거
 
 #### Chapter14_3 (행렬의 곱)
 
@@ -22,3 +22,4 @@ nothing special
 #### Chapter15_4 (문자열 분해)
 
 [Chapter15_4.java](https://github.com/ABER1047/University-programming-class-Practicing/blob/main/chapter15_4.java)
+ -->
