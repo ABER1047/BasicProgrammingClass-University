@@ -1,4 +1,7 @@
-# University-programming-class-Practicing
+# University Programming Basics Class
+
+Programming with Java
+
 nothing special
 
 </br></br></br></br>
