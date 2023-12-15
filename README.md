@@ -1,4 +1,4 @@
-# University Programming Basics Class
+# University Basic Programming Class
 
 Programming with Java
 
